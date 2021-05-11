@@ -65,7 +65,7 @@
     "file-size": "1.0.0",
     "hsts": "2.2.0",
     "language-map": "1.4.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "memory-cache": "0.2.0",
     "moment": "2.24.0",
     "moment-timezone": "0.5.26",
